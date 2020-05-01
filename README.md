@@ -7,7 +7,7 @@ Algorithms for Automotive Engineering*. Please find the course syllabus
 [here](syllabus.md).
 
 [Build Status](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering)
-[![Build Status](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering.svg?branch=master)](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering)
+[![Build Status](https://travis-ci.com/StephanRhode/py-algorithms-4-automotive-engineering.svg?branch=master)](https://travis-ci.com/StephanRhode/py-aorithms-4-automotive-engineering)
 
 ## Table of contents
 [**1. Introduction**](00_intro)
